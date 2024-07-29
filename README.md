@@ -4,6 +4,6 @@
 
 All projects are deployed on render.com. You can find the live preview following the links bellow.
 
-| Project   | Link |
-| :-------- | :--- |
-| Bar Chart |      |
+| Project   | Link                                            |
+| :-------- | :---------------------------------------------- |
+| Bar Chart | https://datavisualization-barchart.onrender.com |
