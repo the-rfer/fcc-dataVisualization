@@ -10,3 +10,4 @@ All projects are deployed on render.com. You can find the live preview following
 | Scatterplot Graph | https://fcc-datavisualization.onrender.com      |
 | Heat Map          | https://fcc-datavisualization-i842.onrender.com |
 | Choropleth Map    | https://fcc-choroplethmap.onrender.com          |
+| Treemap Diagram   |                                                 |
