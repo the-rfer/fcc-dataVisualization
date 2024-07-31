@@ -8,4 +8,4 @@ All projects are deployed on render.com. You can find the live preview following
 | :---------------- | :---------------------------------------------- |
 | Bar Chart         | https://datavisualization-barchart.onrender.com |
 | Scatterplot Graph | https://fcc-datavisualization.onrender.com      |
-| Heat Map          |                                                 |
+| Heat Map          | https://fcc-datavisualization-i842.onrender.com |
