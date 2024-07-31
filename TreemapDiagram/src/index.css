@@ -67,6 +67,15 @@ button:focus-visible {
     outline: 4px auto -webkit-focus-ring-color;
 }
 
+.tile text {
+    font-size: 10px;
+    pointer-events: none;
+}
+
+.tspan-line {
+    display: block;
+}
+
 @media (prefers-color-scheme: light) {
     :root {
         color: #213547;
